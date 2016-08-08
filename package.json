@@ -1,0 +1,27 @@
+{
+  "name": "bada55",
+  "version": "1.0.0",
+  "description": "Generate a pronounceable random hexadecimal color",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dciccale/bada55.git"
+  },
+  "keywords": [
+    "bada55",
+    "badass",
+    "hexadecimal",
+    "hex",
+    "color",
+    "colors"
+  ],
+  "author": "Denis Ciccale (@dciccale)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dciccale/bada55/issues"
+  },
+  "homepage": "https://github.com/dciccale/bada55"
+}
