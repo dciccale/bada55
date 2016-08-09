@@ -2,6 +2,8 @@
 
 > Generate a pronounceable random hexadecimal color
 
+Submit your own BADA55 color at http://bada55.io
+
 ## Installation & Usage
 
 ```sh
