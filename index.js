@@ -7,6 +7,7 @@
 
 'use strict';
 
+// TODO: randomly replace (or not) e->3 a->4 b->8
 const LETTER_NUMBER_MAP = {
   'i': 1,
   'l': 1,
@@ -17,13 +18,13 @@ const LETTER_NUMBER_MAP = {
   's': 5,
   'g': 6,
   't': 7,
-  'b': 8,
+  // 'b': 8,
   'o': 0
 };
 
 const MAX_INT = 9007199254740992;
 const MIN_INT = -MAX_INT;
-const CONSONANTS = 'bcdglrstz';
+const CONSONANTS = 'bcdfglrstz';
 const VOWELS = 'aeio';
 const ALL = CONSONANTS + VOWELS;
 
